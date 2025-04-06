@@ -1,5 +1,6 @@
 # Insurance-data-analysis
 This project showcases an interactive Power BI dashboard built using raw Excel data from Prism Insurance Limited.
+The excel data is also provided 
 
 # Key Features
 Premium Analysis by Policy Type
